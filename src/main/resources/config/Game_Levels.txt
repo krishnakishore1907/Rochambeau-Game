@@ -1,0 +1,5 @@
+Level|opponents|Actions
+0|Betty,Charlie,Daffy|Rock,Scissor,Paper
+1|Tom,Snoopy,Jerry|Fire,Earth,Water,Wood
+2|Scooby,Mickey,Dennis|Fire,Rock,Water,Air,Paper,Sponge,Scissors
+

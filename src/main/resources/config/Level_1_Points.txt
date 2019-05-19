@@ -1,0 +1,4 @@
+0,Rock,Scissor,Paper
+Rock,0,10,-10
+Scissor,-10,0,10
+Paper,10,-10,0
